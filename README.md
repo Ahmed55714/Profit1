@@ -1,4 +1,5 @@
 
+
 # 🚀 ProFIT: Your Ultimate Fitness Solution 📱💪
 
 **ProFIT** is a Flutter-based mobile application that offers comprehensive fitness coaching tools for trainees, trainers, and admins. It provides real-time communication, personalized fitness plans, and user-friendly features to help you track and achieve your fitness goals. Developed as part of our graduation project, ProFIT is designed to help users stay motivated and connected throughout their fitness journey.
@@ -18,6 +19,23 @@
 ### Key Features for Admins:
 - **User & Trainer Management**: Approve trainer profiles and manage user accounts efficiently.
 
+
+### Video for Product
+
+[Watch Product Video](https://github.com/user-attachments/assets/381b080a-e4ce-4275-8a35-68eaf85db89c)
+
+
+## 🎯 AI Trainer Matching
+
+ProFIT's **AI Trainer** feature allows users to be matched with trainers based on their fitness goals, preferences, and performance data. The AI system helps to:
+
+- **Personalize Trainer Matches**: Matches users with trainers specializing in their specific goals, whether it's weight loss, muscle building, or general fitness.
+
+### 📹 AI Trainer Video Demo:
+
+Watch the AI Trainer in action here:
+
+https://github.com/user-attachments/assets/41232a1e-b9b4-46f4-afe6-a07a19417e1e
 ## 📂 Project Structure
 
 Here’s the structure of the `lib` folder in this Flutter app:
@@ -87,7 +105,7 @@ To run this project locally, ensure you have the following installed:
    flutter pub get
    ```
 
-6. **Run the Flutter app**:
+3. **Run the Flutter app**:
    Make sure you have a device or emulator running, and execute:
    ```bash
    flutter run
@@ -99,8 +117,7 @@ Run Flutter unit and widget tests using the following command:
 ```bash
 flutter test
 ```
-### Video for Product
-https://github.com/user-attachments/assets/381b080a-e4ce-4275-8a35-68eaf85db89c
+
 
 ## 🔒 License
 
@@ -109,4 +126,6 @@ This project is licensed under the **Alpha Team License**. See the [LICENSE](LIC
 ---
 
 Thank you for exploring **ProFIT**! We hope this app will help you stay motivated on your fitness journey. For any questions or issues, feel free to reach out.
+
+
 
