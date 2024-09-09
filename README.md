@@ -77,13 +77,13 @@ To run this project locally, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Ahmed55714/ProFIT.git
+   git clone https://github.com/Ahmed55714/ProFIT-project.git
    ```
 
 2. **Install Flutter dependencies**:
    Navigate to the root of the Flutter app and install dependencies:
    ```bash
-   cd ProFIT
+   cd ProFIT-project
    flutter pub get
    ```
 
