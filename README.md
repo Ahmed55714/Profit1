@@ -1,3 +1,4 @@
+
 # 🚀 ProFIT: Your Ultimate Fitness Solution 📱💪
 
 **ProFIT** is a Flutter-based mobile application that offers comprehensive fitness coaching tools for trainees, trainers, and admins. It provides real-time communication, personalized fitness plans, and user-friendly features to help you track and achieve your fitness goals. Developed as part of our graduation project, ProFIT is designed to help users stay motivated and connected throughout their fitness journey.
@@ -76,7 +77,7 @@ To run this project locally, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ProFIT.git
+   git clone https://github.com/Ahmed55714/ProFIT.git
    ```
 
 2. **Install Flutter dependencies**:
@@ -84,27 +85,6 @@ To run this project locally, ensure you have the following installed:
    ```bash
    cd ProFIT
    flutter pub get
-   ```
-
-3. **Install Backend dependencies**:
-   Navigate to the `server/` directory and install dependencies:
-   ```bash
-   cd server
-   npm install
-   ```
-
-4. **Set up environment variables**:
-   Create a `.env` file in the backend folder with the following configuration:
-   ```bash
-   PORT=5000
-   MONGO_URI=your_mongo_db_connection_string
-   JWT_SECRET=your_jwt_secret
-   ```
-
-5. **Run the backend server**:
-   ```bash
-   cd server
-   npm start
    ```
 
 6. **Run the Flutter app**:
@@ -123,8 +103,9 @@ flutter test
 
 ## 🔒 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **Alpha Team License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
 Thank you for exploring **ProFIT**! We hope this app will help you stay motivated on your fitness journey. For any questions or issues, feel free to reach out.
+
