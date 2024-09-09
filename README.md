@@ -129,7 +129,7 @@ flutter test
 
 ## 🔒 License
 
-This project is licensed under the **Alpha Team License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **Alpha Team License**.
 
 ---
 
